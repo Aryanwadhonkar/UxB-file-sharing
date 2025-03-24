@@ -58,7 +58,6 @@ except ValueError:
 
 #Force sub message 
 FORCE_MSG = os.environ.get("FORCE_SUB_MESSAGE", "Um,~! {first} <b>If you could please join the channel first, then I’ll be all yours to take care of~! ✨</b>")
-")
 
 #set your Custom Caption here, Keep None for Disable Custom Caption
 CUSTOM_CAPTION = os.environ.get("CUSTOM_CAPTION", "<b>» ʙʏ @wleakshere</b>")
